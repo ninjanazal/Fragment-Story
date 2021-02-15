@@ -1,0 +1,12 @@
+# VsCode
+.vscode/
+
+#godot bindings
+godot-cpp/
+
+# Godot-specific ignores
+Fragment-Story/.import/
+export.cfg
+export_presets.cfg
+
+
