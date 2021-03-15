@@ -1,6 +1,0 @@
-[gd_resource type="GDNativeLibrary" format=2]
-
-[resource]
-reloadable = true
-entry/Windows.64 = "res://bin/win64/libgdexample.dll"
-dependency/Windows.64 = [  ]
